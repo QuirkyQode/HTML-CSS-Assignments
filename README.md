@@ -1,7 +1,5 @@
 # HTML-CSS-Assignments
 
-Go to the codesandbox link of each project to see the final result:
-
 https://github.com/QuirkyQode/CSSProject1
 
 https://github.com/QuirkyQode/CSSProject2
